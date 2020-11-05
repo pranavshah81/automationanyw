@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\B1_建設業許可更新①","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\P3_和暦西暦変換","Automation Anywhere\\Bots\\P4_設定読込","Automation Anywhere\\Bots\\P1_AS400起動"]}
+{"path":"Automation Anywhere\\Bots\\B1_建設業許可更新①","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\P4_設定読込","Automation Anywhere\\Bots\\P1_AS400起動","Automation Anywhere\\Bots\\P3_和暦西暦変換"]}
