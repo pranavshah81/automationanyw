@@ -1,1 +1,1 @@
-sTest=AM
+sTest=PM
