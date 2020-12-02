@@ -1,1 +1,1 @@
-sTest=Good_Evening
+sTest=Day
