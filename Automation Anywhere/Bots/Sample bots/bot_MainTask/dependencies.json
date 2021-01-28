@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\Sample bots\\MainTask","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Sample bots\\SubTask","Automation Anywhere\\Bots\\api-ms-win-core-console-l1-1-0.dll"]}
+{"path":"Automation Anywhere\\Bots\\Sample bots\\MainTask","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\api-ms-win-core-console-l1-1-0.dll","Automation Anywhere\\Bots\\Sample bots\\SubTask"]}
